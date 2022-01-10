@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1100px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+#block{
+    width: 200px;
+    height: 200px;
+    border: solid 1px blue;
+    background-color: chartreuse;
+}

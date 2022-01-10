@@ -1,0 +1,22 @@
+img{
+    width: 150px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px rgb(13, 13, 68);
+    padding-bottom: 5px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 300px;
+}
+
+li{
+    width: 50px;
+    color: rgb(13, 13, 68);
+}
